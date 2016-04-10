@@ -1,0 +1,1834 @@
+Abbeville County:South Carolina
+Acadia Parish:Louisiana
+Accomack County:Virginia
+Ada County:Idaho
+Adair County: IA; KY; MO; OK
+Adams County: CO; ID; IL; IN; IA; MS; NE; ND; OH; PA; WA; WI
+Addison County:Vermont
+Aiken County:South Carolina
+Aitkin County:Minnesota
+Alachua County:Florida
+Alamance County:North Carolina
+Alameda County:California
+Alamosa County:Colorado
+Albany County: NY; WY
+Albemarle County:Virginia
+Alcona County:Michigan
+Alcorn County:Mississippi
+Aleutians East Borough:Alaska
+Aleutians West Census Area:Alaska
+Alexander County: IL; NC
+Alfalfa County:Oklahoma
+Alger County:Michigan
+Allamakee County:Iowa
+Allegan County:Michigan
+Allegany County: MD; NY
+Alleghany County: NC; VA
+Allegheny County:Pennsylvania
+Allen County: IN; KS; KY; OH
+Allen Parish:Louisiana
+Allendale County:South Carolina
+Alpena County:Michigan
+Alpine County:California
+Amador County:California
+Amelia County:Virginia
+Amherst County:Virginia
+Amite County:Mississippi
+Municipality of Anchorage:Alaska (a consolidated city-borough under Alaska law)
+Anderson County: KS; KY; SC; TN; TX
+Andrew County:Missouri
+Andrews County:Texas
+Androscoggin County:Maine
+Angelina County:Texas
+Anne Arundel County:Maryland
+Anoka County:Minnesota
+Anson County:North Carolina
+Antelope County:Nebraska
+Antrim County:Michigan
+Apache County:Arizona
+Appanoose County:Iowa
+Appling County:Georgia
+Appomattox County:Virginia
+Aransas County:Texas
+Arapahoe County:Colorado
+Archer County:Texas
+Archuleta County:Colorado
+Arenac County:Michigan
+Arkansas County:Arkansas
+Arlington County:Virginia
+Armstrong County: PA; TX
+Aroostook County:Maine
+Arthur County:Nebraska
+Ascension Parish:Louisiana
+Ashe County:North Carolina
+Ashland County: OH; WI
+Ashley County:Arkansas
+Ashtabula County:Ohio
+Asotin County:Washington
+Assumption Parish:Louisiana
+Atascosa County:Texas
+Atchison County: KS; MO
+Athens County:Ohio
+Atkinson County:Georgia
+Atlantic County:New Jersey
+Atoka County:Oklahoma
+Attala County:Mississippi
+Audrain County:Missouri
+Audubon County:Iowa
+Auglaize County:Ohio
+Augusta County:Virginia
+Aurora County:South Dakota
+Austin County:Texas
+Autauga County:Alabama
+Avery County:North Carolina
+Avoyelles Parish:Louisiana
+Baca County:Colorado
+Bacon County:Georgia
+Bailey County:Texas
+Baker County: FL; GA; OR
+Baldwin County: AL; GA
+Ballard County:Kentucky
+Baltimore County:Maryland
+Bamberg County:South Carolina
+Bandera County:Texas
+Banks County:Georgia
+Banner County:Nebraska
+Bannock County:Idaho
+Baraga County:Michigan
+Barber County:Kansas
+Barbour County: AL; WV
+Barnes County:North Dakota
+Barnstable County:Massachusetts
+Barnwell County:South Carolina
+Barren County:Kentucky
+Barron County:Wisconsin
+Barrow County:Georgia
+Barry County: MI; MO
+Bartholomew County:Indiana
+Barton County: KS; MO
+Bartow County:Georgia
+Bastrop County:Texas
+Bates County:Missouri
+Bath County: KY; VA
+Baxter County:Arkansas
+Bay County: FL; MI
+Bayfield County:Wisconsin
+Baylor County:Texas
+Beadle County:South Dakota
+Bear Lake County:Idaho
+Beaufort County: NC; SC
+Beauregard Parish:Louisiana
+Beaver County: OK; PA; UT
+Beaverhead County:Montana
+Becker County:Minnesota
+Beckham County:Oklahoma
+Bedford County: PA; TN; VA
+Bee County:Texas
+Belknap County:New Hampshire
+Bell County: KY; TX
+Belmont County:Ohio
+Beltrami County:Minnesota
+Ben Hill County:Georgia
+Benewah County:Idaho
+Bennett County:South Dakota
+Bennington County:Vermont
+Benson County:North Dakota
+Bent County:Colorado
+Benton County: AR; IN; IA; MN; MS; MO; OR; TN; WA
+Benzie County:Michigan
+Bergen County:New Jersey
+Berkeley County: SC; WV
+Berks County:Pennsylvania
+Berkshire County:Massachusetts
+Bernalillo County:New Mexico
+Berrien County: GA; MI
+Bertie County:North Carolina
+Bethel Census Area:Alaska
+Bexar County:Texas
+Bibb County: AL; GA
+Bienville Parish:Louisiana
+Big Horn County: MT; WY
+Big Stone County:Minnesota
+Billings County:North Dakota
+Bingham County:Idaho
+Black Hawk County:Iowa
+Blackford County:Indiana
+Bladen County:North Carolina
+Blaine County: ID; MT; NE; OK
+Blair County:Pennsylvania
+Blanco County:Texas
+Bland County:Virginia
+Bleckley County:Georgia
+Bledsoe County:Tennessee
+Blount County: AL; TN
+Blue Earth County:Minnesota
+Boise County:Idaho
+Bolivar County:Mississippi
+Bollinger County:Missouri
+Bon Homme County:South Dakota
+Bond County:Illinois
+Bonner County:Idaho
+Bonneville County:Idaho
+Boone County: AR; IL; IN; IA; KY; MO; NE; WV
+Borden County:Texas
+Bosque County:Texas
+Bossier Parish:Louisiana
+Botetourt County:Virginia
+Bottineau County:North Dakota
+Boulder County:Colorado
+Boundary County:Idaho
+Bourbon County: KS; KY
+Bowie County:Texas
+Bowman County:North Dakota
+Box Butte County:Nebraska
+Box Elder County:Utah
+Boyd County: KY; NE
+Boyle County:Kentucky
+Bracken County:Kentucky
+Bradford County: FL; PA
+Bradley County: AR; TN
+Branch County:Michigan
+Brantley County:Georgia
+Braxton County:West Virginia
+Brazoria County:Texas
+Brazos County:Texas
+Breathitt County:Kentucky
+Breckinridge County:Kentucky
+Bremer County:Iowa
+Brevard County:Florida
+Brewster County:Texas
+Briscoe County:Texas
+Bristol Bay Borough:Alaska
+Bristol County: MA; RI
+Broadwater County:Montana
+Bronx County:New York
+Brooke County:West Virginia
+Brookings County:South Dakota
+Brooks County: GA; TX
+Broome County:New York
+City and County of Broomfield:Colorado
+Broward County:Florida
+Brown County: IL; IN; KS; MN; NE; OH; SD; TX; WI
+Brule County:South Dakota
+Brunswick County: NC; VA
+Bryan County: GA; OK
+Buchanan County: IA; MO; VA
+Buckingham County:Virginia
+Bucks County:Pennsylvania
+Buena Vista County:Iowa
+Buffalo County: NE; SD; WI
+Bullitt County:Kentucky
+Bulloch County:Georgia
+Bullock County:Alabama
+Buncombe County:North Carolina
+Bureau County:Illinois
+Burke County: GA; NC; ND
+Burleigh County:North Dakota
+Burleson County:Texas
+Burlington County:New Jersey
+Burnet County:Texas
+Burnett County:Wisconsin
+Burt County:Nebraska
+Butler County: AL; IA; KS; KY; MO; NE; OH; PA
+Butte County: CA; ID; SD
+Butts County:Georgia
+Cabarrus County:North Carolina
+Cabell County:West Virginia
+Cache County:Utah
+Caddo County:Oklahoma
+Caddo Parish:Louisiana
+Calaveras County:California
+Calcasieu Parish:Louisiana
+Caldwell County: KY; MO; NC; TX
+Caldwell Parish:Louisiana
+Caledonia County:Vermont
+Calhoun County: AL; AR; FL; GA; IL; IA; MI; MS; SC; TX; WV
+Callahan County:Texas
+Callaway County:Missouri
+Calloway County:Kentucky
+Calumet County:Wisconsin
+Calvert County:Maryland
+Camas County:Idaho
+Cambria County:Pennsylvania
+Camden County: GA; MO; NJ; NC
+Cameron County: PA; TX
+Cameron Parish:Louisiana
+Camp County:Texas
+Campbell County: KY; SD; TN; VA; WY
+Canadian County:Oklahoma
+Candler County:Georgia
+Cannon County:Tennessee
+Canyon County:Idaho
+Cape Girardeau County:Missouri
+Cape May County:New Jersey
+Carbon County: MT; PA; UT; WY
+Caribou County:Idaho
+Carlisle County:Kentucky
+Carlton County:Minnesota
+Caroline County: MD; VA
+Carroll County: AR; GA; IL; IN; IA; KY; MD; MS; MO; NH; OH; TN; VA
+Carson County:Texas
+Carter County: KY; MO; MT; OK; TN
+Carteret County:North Carolina
+Carver County:Minnesota
+Cascade County:Montana
+Casey County:Kentucky
+Cass County: IL; IN; IA; MI; MN; MO; NE; ND; TX
+Cassia County:Idaho
+Castro County:Texas
+Caswell County:North Carolina
+Catahoula Parish:Louisiana
+Catawba County:North Carolina
+Catoosa County:Georgia
+Catron County:New Mexico
+Cattaraugus County:New York
+Cavalier County:North Dakota
+Cayuga County:New York
+Cecil County:Maryland
+Cedar County: IA; MO; NE
+Centre County:Pennsylvania
+Cerro Gordo County:Iowa
+Chaffee County:Colorado
+Chambers County: AL; TX
+Champaign County: IL; OH
+Chariton County:Missouri
+Charles City County:Virginia
+Charles County:Maryland
+Charles Mix County:South Dakota
+Charleston County:South Carolina
+Charlevoix County:Michigan
+Charlotte County: FL; VA
+Charlton County:Georgia
+Chase County: KS; NE
+Chatham County: GA; NC
+Chattahoochee County:Georgia
+Chattooga County:Georgia
+Chautauqua County: KS; NY
+Chaves County:New Mexico
+Cheatham County:Tennessee
+Cheboygan County:Michigan
+Chelan County:Washington
+Chemung County:New York
+Chenango County:New York
+Cherokee County: AL; GA; IA; KS; NC; OK; SC; TX
+Cherry County:Nebraska
+Cheshire County:New Hampshire
+Chester County: PA; SC; TN
+Chesterfield County: SC; VA
+Cheyenne County: CO; KS; NE
+Chickasaw County: IA; MS
+Chicot County:Arkansas
+Childress County:Texas
+Chilton County:Alabama
+Chippewa County: MI; MN; WI
+Chisago County:Minnesota
+Chittenden County:Vermont
+Choctaw County: AL; MS; OK
+Chouteau County:Montana
+Chowan County:North Carolina
+Christian County: IL; KY; MO
+Churchill County:Nevada
+Cibola County:New Mexico
+Cimarron County:Oklahoma
+Citrus County:Florida
+Clackamas County:Oregon
+Claiborne County: MS; TN
+Claiborne Parish:Louisiana
+Clallam County:Washington
+Clare County:Michigan
+Clarendon County:South Carolina
+Clarion County:Pennsylvania
+Clark County: AR; ID; IL; IN; KS; KY; MO; NV; OH; SD; WA; WI
+Clarke County: AL; GA; IA; MS; VA
+Clatsop County:Oregon
+Clay County: AL; AR; FL; GA; IL; IN; IA; KS; KY; MN; MS; MO; NE; NC; SD; TN; TX; WV
+Clayton County: GA; IA
+Clear Creek County:Colorado
+Clearfield County:Pennsylvania
+Clearwater County: ID; MN
+Cleburne County: AL; AR
+Clermont County:Ohio
+Cleveland County: AR; NC; OK
+Clinch County:Georgia
+Clinton County: IL; IN; IA; KY; MI; MO; NY; OH; PA
+Cloud County:Kansas
+Coahoma County:Mississippi
+Coal County:Oklahoma
+Cobb County:Georgia
+Cochise County:Arizona
+Cochran County:Texas
+Cocke County:Tennessee
+Coconino County:Arizona
+Codington County:South Dakota
+Coffee County: AL; GA; TN
+Coffey County:Kansas
+Coke County:Texas
+Colbert County:Alabama
+Cole County:Missouri
+Coleman County:Texas
+Coles County:Illinois
+Colfax County: NE; NM
+Colleton County:South Carolina
+Collier County:Florida
+Collin County:Texas
+Collingsworth County:Texas
+Colorado County:Texas
+Colquitt County:Georgia
+Columbia County: AR; FL; GA; NY; OR; PA; WA; WI
+Columbiana County:Ohio
+Columbus County:North Carolina
+Colusa County:California
+Comal County:Texas
+Comanche County: KS; OK; TX
+Concho County:Texas
+Concordia Parish:Louisiana
+Conecuh County:Alabama
+Conejos County:Colorado
+Contra Costa County:California
+Converse County:Wyoming
+Conway County:Arkansas
+Cook County: GA; IL; MN
+Cooke County:Texas
+Cooper County:Missouri
+Coos County: NH; OR
+Coosa County:Alabama
+Copiah County:Mississippi
+Corson County:South Dakota
+Cortland County:New York
+Coryell County:Texas
+Coshocton County:Ohio
+Costilla County:Colorado
+Cottle County:Texas
+Cotton County:Oklahoma
+Cottonwood County:Minnesota
+Covington County: AL; MS
+Coweta County:Georgia
+Cowley County:Kansas
+Cowlitz County:Washington
+Craig County: OK; VA
+Craighead County:Arkansas
+Crane County:Texas
+Craven County:North Carolina
+Crawford County: AR; GA; IL; IN; IA; KS; MI; MO; OH; PA; WI
+Creek County:Oklahoma
+Crenshaw County:Alabama
+Crisp County:Georgia
+Crittenden County: AR; KY
+Crockett County: TN; TX
+Crook County: OR; WY
+Crosby County:Texas
+Cross County:Arkansas
+Crow Wing County:Minnesota
+Crowley County:Colorado
+Culberson County:Texas
+Cullman County:Alabama
+Culpeper County:Virginia
+Cumberland County: IL; KY; ME; NJ; NC; PA; TN; VA
+Cuming County:Nebraska
+Currituck County:North Carolina
+Curry County: NM; OR
+Custer County: CO; ID; MT; NE; OK; SD
+Cuyahoga County:Ohio
+Dade County: GA; MO
+Daggett County:Utah
+Dakota County: MN; NE
+Dale County:Alabama
+Dallam County:Texas
+Dallas County: AL; AR; IA; MO; TX
+Dane County:Wisconsin
+Daniels County:Montana
+Dare County:North Carolina
+Darke County:Ohio
+Darlington County:South Carolina
+Dauphin County:Pennsylvania
+Davidson County: NC; TN
+Davie County:North Carolina
+Daviess County: IN; KY; MO
+Davis County: IA; UT
+Davison County:South Dakota
+Dawes County:Nebraska
+Dawson County: GA; MT; NE; TX
+Day County:South Dakota
+De Baca County:New Mexico
+DeKalb County: AL; GA; IL; IN; MO; TN
+De Soto Parish:Louisiana
+DeSoto County: FL; MS
+De Witt County:Illinois
+DeWitt County:Texas
+Deaf Smith County:Texas
+Dearborn County:Indiana
+Decatur County: GA; IN; IA; KS; TN
+Deer Lodge County:Montana
+Defiance County:Ohio
+Del Norte County:California
+Delaware County: IN; IA; NY; OH; OK; PA
+Delta County: CO; MI; TX
+Denali Borough:Alaska
+Dent County:Missouri
+Denton County:Texas
+City and County of Denver:Colorado
+Des Moines County:Iowa
+Deschutes County:Oregon
+Desha County:Arkansas
+Deuel County: NE; SD
+Dewey County: OK; SD
+Dickens County:Texas
+Dickenson County:Virginia
+Dickey County:North Dakota
+Dickinson County: IA; KS; MI
+Dickson County:Tennessee
+Dillingham Census Area:Alaska
+Dillon County:South Carolina
+Dimmit County:Texas
+Dinwiddie County:Virginia
+District of Columbia County:District of Columbia
+Divide County:North Dakota
+Dixie County:Florida
+Dixon County:Nebraska
+Doddridge County:West Virginia
+Dodge County: GA; MN; NE; WI
+Dolores County:Colorado
+Doña Ana County:New Mexico
+Doniphan County:Kansas
+Donley County:Texas
+Dooly County:Georgia
+Door County:Wisconsin
+Dorchester County: MD; SC
+Dougherty County:Georgia
+Douglas County: CO; GA; IL; KS; MN; MO; NE; NV; OR; SD; WA; WI
+Drew County:Arkansas
+Du Page County:Illinois
+Dubois County:Indiana
+Dubuque County:Iowa
+Duchesne County:Utah
+Dukes County:Massachusetts
+Dundy County:Nebraska
+Dunklin County:Missouri
+Dunn County: ND; WI
+Duplin County:North Carolina
+Durham County:North Carolina
+Dutchess County:New York
+Duval County: FL; TX
+Dyer County:Tennessee
+Eagle County:Colorado
+Early County:Georgia
+East Baton Rouge Parish:Louisiana
+East Carroll Parish:Louisiana
+East Feliciana Parish:Louisiana
+Eastland County:Texas
+Eaton County:Michigan
+Eau Claire County:Wisconsin
+Echols County:Georgia
+Ector County:Texas
+Eddy County: NM; ND
+Edgar County:Illinois
+Edgecombe County:North Carolina
+Edgefield County:South Carolina
+Edmonson County:Kentucky
+Edmunds County:South Dakota
+Edwards County: IL; KS; TX
+Effingham County: GA; IL
+El Dorado County:California
+El Paso County: CO; TX
+Elbert County: CO; GA
+Elk County: KS; PA
+Elkhart County:Indiana
+Elko County:Nevada
+Elliott County:Kentucky
+Ellis County: KS; OK; TX
+Ellsworth County:Kansas
+Elmore County: AL; ID
+Emanuel County:Georgia
+Emery County:Utah
+Emmet County: IA; MI
+Emmons County:North Dakota
+Erath County:Texas
+Erie County: NY; OH; PA
+Escambia County: AL; FL
+Esmeralda County:Nevada
+Essex County: MA; NJ; NY; VT; VA
+Estill County:Kentucky
+Etowah County:Alabama
+Eureka County:Nevada
+Evangeline Parish:Louisiana
+Evans County:Georgia
+Fairbanks North Star Borough:Alaska
+Fairfax County:Virginia
+Fairfield County: CT; OH; SC
+Fall River County:South Dakota
+Fallon County:Montana
+Falls County:Texas
+Fannin County: GA; TX
+Faribault County:Minnesota
+Faulk County:South Dakota
+Faulkner County:Arkansas
+Fauquier County:Virginia
+Fayette County: AL; GA; IL; IN; IA; KY; OH; PA; TN; TX; WV
+Fentress County:Tennessee
+Fergus County:Montana
+Ferry County:Washington
+Fillmore County: MN; NE
+Finney County:Kansas
+Fisher County:Texas
+Flagler County:Florida
+Flathead County:Montana
+Fleming County:Kentucky
+Florence County: SC; WI
+Floyd County: GA; IN; IA; KY; TX; VA
+Fluvanna County:Virginia
+Foard County:Texas
+Fond du Lac County:Wisconsin
+Ford County: IL; KS
+Forest County: PA; WI
+Forrest County:Mississippi
+Forsyth County: GA; NC
+Fort Bend County:Texas
+Foster County:North Dakota
+Fountain County:Indiana
+Franklin County: AL; AR; FL; GA; ID; IL; IN; IA; KS; KY; ME; MA; MS; MO; NE; NY; NC; OH; PA; TN; TX; VT; VA; WA
+Franklin Parish:Louisiana
+Frederick County: MD; VA
+Freeborn County:Minnesota
+Freestone County:Texas
+Fremont County: CO; ID; IA; WY
+Fresno County:California
+Frio County:Texas
+Frontier County:Nebraska
+Fulton County: AR; GA; IL; IN; KY; NY; OH; PA
+Furnas County:Nebraska
+Gadsden County:Florida
+Gage County:Nebraska
+Gaines County:Texas
+Gallatin County: IL; KY; MT
+Gallia County:Ohio
+Galveston County:Texas
+Garden County:Nebraska
+Garfield County: CO; MT; NE; OK; UT; WA
+Garland County:Arkansas
+Garrard County:Kentucky
+Garrett County:Maryland
+Garvin County:Oklahoma
+Garza County:Texas
+Gasconade County:Missouri
+Gaston County:North Carolina
+Gates County:North Carolina
+Geary County:Kansas
+Geauga County:Ohio
+Gem County:Idaho
+Genesee County: MI; NY
+Geneva County:Alabama
+Gentry County:Missouri
+George County:Mississippi
+Georgetown County:South Carolina
+Gibson County: IN; TN
+Gila County:Arizona
+Gilchrist County:Florida
+Giles County: TN; VA
+Gillespie County:Texas
+Gilliam County:Oregon
+Gilmer County: GA; WV
+Gilpin County:Colorado
+Glacier County:Montana
+Glades County:Florida
+Gladwin County:Michigan
+Glascock County:Georgia
+Glasscock County:Texas
+Glenn County:California
+Gloucester County: NJ; VA
+Glynn County:Georgia
+Gogebic County:Michigan
+Golden Valley County: MT; ND
+Goliad County:Texas
+Gonzales County:Texas
+Goochland County:Virginia
+Goodhue County:Minnesota
+Gooding County:Idaho
+Gordon County:Georgia
+Goshen County:Wyoming
+Gosper County:Nebraska
+Gove County:Kansas
+Grady County: GA; OK
+Grafton County:New Hampshire
+Graham County: AZ; KS; NC
+Grainger County:Tennessee
+Grand County: CO; UT
+Grand Forks County:North Dakota
+Grand Isle County:Vermont
+Grand Traverse County:Michigan
+Granite County:Montana
+Grant County: AR; IN; KS; KY; MN; NE; NM; ND; OK; OR; SD; WA; WV; WI
+Grant Parish:Louisiana
+Granville County:North Carolina
+Gratiot County:Michigan
+Graves County:Kentucky
+Gray County: KS; TX
+Grays Harbor County:Washington
+Grayson County: KY; TX; VA
+Greeley County: KS; NE
+Green County: KY; WI
+Green Lake County:Wisconsin
+Greenbrier County:West Virginia
+Greene County: AL; AR; GA; IL; IN; IA; MS; MO; NY; NC; OH; PA; TN; VA
+Greenlee County:Arizona
+Greensville County:Virginia
+Greenup County:Kentucky
+Greenville County:South Carolina
+Greenwood County: KS; SC
+Greer County:Oklahoma
+Gregg County:Texas
+Gregory County:South Dakota
+Grenada County:Mississippi
+Griggs County:North Dakota
+Grimes County:Texas
+Grundy County: IL; IA; MO; TN
+Guadalupe County: NM; TX
+Guernsey County:Ohio
+Guilford County:North Carolina
+Gulf County:Florida
+Gunnison County:Colorado
+Guthrie County:Iowa
+Gwinnett County:Georgia
+Haakon County:South Dakota
+Habersham County:Georgia
+Haines Borough:Alaska
+Hale County: AL; TX
+Halifax County: NC; VA
+Hall County: GA; NE; TX
+Hamblen County:Tennessee
+Hamilton County: FL; IL; IN; IA; KS; NE; NY; OH; TN; TX
+Hamlin County:South Dakota
+Hampden County:Massachusetts
+Hampshire County: MA; WV
+Hampton County:South Carolina
+Hancock County: GA; IL; IN; IA; KY; ME; MS; OH; TN; WV
+Hand County:South Dakota
+Hanover County:Virginia
+Hansford County:Texas
+Hanson County:South Dakota
+Haralson County:Georgia
+Hardee County:Florida
+Hardeman County: TN; TX
+Hardin County: IL; IA; KY; OH; TN; TX
+Harding County: NM; SD
+Hardy County:West Virginia
+Harford County:Maryland
+Harlan County: KY; NE
+Harmon County:Oklahoma
+Harnett County:North Carolina
+Harney County:Oregon
+Harper County: KS; OK
+Harris County: GA; TX
+Harrison County: IN; IA; KY; MS; MO; OH; TX; WV
+Hart County: GA; KY
+Hartford County:Connecticut
+Hartley County:Texas
+Harvey County:Kansas
+Haskell County: KS; OK; TX
+Hawaii County:Hawaii
+Hawkins County:Tennessee
+Hayes County:Nebraska
+Hays County:Texas
+Haywood County: NC; TN
+Heard County:Georgia
+Hemphill County:Texas
+Hempstead County:Arkansas
+Henderson County: IL; KY; NC; TN; TX
+Hendricks County:Indiana
+Hendry County:Florida
+Hennepin County:Minnesota
+Henrico County:Virginia
+Henry County: AL; GA; IL; IN; IA; KY; MO; OH; TN; VA
+Herkimer County:New York
+Hernando County:Florida
+Hertford County:North Carolina
+Hettinger County:North Dakota
+Hickman County: KY; TN
+Hickory County:Missouri
+Hidalgo County: NM; TX
+Highland County: OH; VA
+Highlands County:Florida
+Hill County: MT; TX
+Hillsborough County: FL; NH
+Hillsdale County:Michigan
+Hinds County:Mississippi
+Hinsdale County:Colorado
+Hitchcock County:Nebraska
+Hocking County:Ohio
+Hockley County:Texas
+Hodgeman County:Kansas
+Hoke County:North Carolina
+Holmes County: FL; MS; OH
+Holt County: MO; NE
+Honolulu County:Hawaii
+Hood County:Texas
+Hood River County:Oregon
+Hooker County:Nebraska
+Hopkins County: KY; TX
+Horry County:South Carolina
+Hot Spring County:Arkansas
+Hot Springs County:Wyoming
+Houghton County:Michigan
+Houston County: AL; GA; MN; TN; TX
+Howard County: AR; IN; IA; MD; MO; NE; TX
+Howell County:Missouri
+Hubbard County:Minnesota
+Hudson County:New Jersey
+Hudspeth County:Texas
+Huerfano County:Colorado
+Hughes County: OK; SD
+Humboldt County: CA; IA; NV
+Humphreys County: MS; TN
+Hunt County:Texas
+Hunterdon County:New Jersey
+Huntingdon County:Pennsylvania
+Huntington County:Indiana
+Huron County: MI; OH
+Hutchinson County: SD; TX
+Hyde County: NC; SD
+Iberia Parish:Louisiana
+Iberville Parish:Louisiana
+Ida County:Iowa
+Idaho County:Idaho
+Imperial County:California
+Independence County:Arkansas
+Indian River County:Florida
+Indiana County:Pennsylvania
+Ingham County:Michigan
+Inyo County:California
+Ionia County:Michigan
+Iosco County:Michigan
+Iowa County: IA; WI
+Iredell County:North Carolina
+Irion County:Texas
+Iron County: MI; MO; UT; WI
+Iroquois County:Illinois
+Irwin County:Georgia
+Isabella County:Michigan
+Isanti County:Minnesota
+Island County:Washington
+Isle of Wight County:Virginia
+Issaquena County:Mississippi
+Itasca County:Minnesota
+Itawamba County:Mississippi
+Izard County:Arkansas
+Jack County:Texas
+Jackson County: AL; AR; CO; FL; GA; IL; IN; IA; KS; KY; MI; MN; MS; MO; NC; OH; OK; OR; SD; TN; TX; WV; WI
+Jackson Parish:Louisiana
+James City County:Virginia
+Jasper County: GA; IL; IN; IA; MS; MO; SC; TX
+Jay County:Indiana
+Jeff Davis County: GA; TX
+Jefferson County: AL; AR; CO; FL; GA; ID; IL; IN; IA; KS; KY; MS; MO; MT; NE; NY; OH; OK; OR; PA; TN; TX; WA; WV; WI
+Jefferson Parish:Louisiana
+Jefferson Davis County:Mississippi
+Jefferson Davis Parish:Louisiana
+Jenkins County:Georgia
+Jennings County:Indiana
+Jerauld County:South Dakota
+Jerome County:Idaho
+Jersey County:Illinois
+Jessamine County:Kentucky
+Jewell County:Kansas
+Jim Hogg County:Texas
+Jim Wells County:Texas
+Jo Daviess County:Illinois
+Johnson County: AR; GA; IL; IN; IA; KS; KY; MO; NE; TN; TX; WY
+Johnston County: NC; OK
+Jones County: GA; IA; MS; NC; SD; TX
+Josephine County:Oregon
+Juab County:Utah
+Judith Basin County:Montana
+Juneau County:Wisconsin
+Juneau City and Borough:Alaska
+Juniata County:Pennsylvania
+Kalamazoo County:Michigan
+Kalawao County:Hawaii
+Kalkaska County:Michigan
+Kanabec County:Minnesota
+Kanawha County:West Virginia
+Kandiyohi County:Minnesota
+Kane County: IL; UT
+Kankakee County:Illinois
+Karnes County:Texas
+Kauai County:Hawaii
+Kaufman County:Texas
+Kay County:Oklahoma
+Kearney County:Nebraska
+Kearny County:Kansas
+Keith County:Nebraska
+Kemper County:Mississippi
+Kenai Peninsula Borough:Alaska
+Kendall County: IL; TX
+Kenedy County:Texas
+Kennebec County:Maine
+Kenosha County:Wisconsin
+Kent County: DE; MD; MI; RI; TX
+Kenton County:Kentucky
+Keokuk County:Iowa
+Kern County:California
+Kerr County:Texas
+Kershaw County:South Carolina
+Ketchikan Gateway Borough:Alaska
+Kewaunee County:Wisconsin
+Keweenaw County:Michigan
+Keya Paha County:Nebraska
+Kidder County:North Dakota
+Kimball County:Nebraska
+Kimble County:Texas
+King County: TX; WA
+King George County:Virginia
+King William County:Virginia
+King and Queen County:Virginia
+Kingfisher County:Oklahoma
+Kingman County:Kansas
+Kings County:California
+Kings County:New York
+Kingsbury County:South Dakota
+Kinney County:Texas
+Kiowa County: CO; KS; OK
+Kit Carson County:Colorado
+Kitsap County:Washington
+Kittitas County:Washington
+Kittson County:Minnesota
+Klamath County:Oregon
+Kleberg County:Texas
+Klickitat County:Washington
+Knott County:Kentucky
+Knox County: IL; IN; KY; ME; MO; NE; OH; TN; TX
+Kodiak Island Borough:Alaska
+Koochiching County:Minnesota
+Kootenai County:Idaho
+Kosciusko County:Indiana
+Kossuth County:Iowa
+La Crosse County:Wisconsin
+LaMoure County:North Dakota
+La Paz County:Arizona
+La Plata County:Colorado
+LaPorte County:Indiana
+LaSalle County:Illinois
+La Salle County:Texas
+La Salle Parish:Louisiana
+Labette County:Kansas
+Lac qui Parle County:Minnesota
+Lackawanna County:Pennsylvania
+Laclede County:Missouri
+Lafayette County: AR; FL; MS; MO; WI
+Lafayette Parish:Louisiana
+Lafourche Parish:Louisiana
+LaGrange County:Indiana
+Lake County: CA; CO; FL; IL; IN; MI; MN; MT; OH; OR; SD; TN
+Lake and Peninsula Borough:Alaska
+Lake of the Woods County:Minnesota
+Lamar County: AL; GA; MS; TX
+Lamb County:Texas
+Lamoille County:Vermont
+Lampasas County:Texas
+Lancaster County: NE; PA; SC; VA
+Lander County:Nevada
+Lane County: KS; OR
+Langlade County:Wisconsin
+Lanier County:Georgia
+Lapeer County:Michigan
+Laramie County:Wyoming
+Larimer County:Colorado
+LaRue County:Kentucky
+Las Animas County:Colorado
+Lassen County:California
+Latah County:Idaho
+Latimer County:Oklahoma
+Lauderdale County: AL; MS; TN
+Laurel County:Kentucky
+Laurens County: GA; SC
+Lavaca County:Texas
+Lawrence County: AL; AR; IL; IN; KY; MS; MO; OH; PA; SD; TN
+Le Flore County:Oklahoma
+Le Sueur County:Minnesota
+Lea County:New Mexico
+Leake County:Mississippi
+Leavenworth County:Kansas
+Lebanon County:Pennsylvania
+Lee County: AL; AR; FL; GA; IL; IA; KY; MS; NC; SC; TX; VA
+Leelanau County:Michigan
+Leflore County:Mississippi
+Lehigh County:Pennsylvania
+Lemhi County:Idaho
+Lenawee County:Michigan
+Lenoir County:North Carolina
+Leon County: FL; TX
+Leslie County:Kentucky
+Letcher County:Kentucky
+Levy County:Florida
+Lewis County: ID; KY; MO; NY; TN; WA; WV
+Lewis and Clark County:Montana
+Lexington County:South Carolina
+Liberty County: FL; GA; MT; TX
+Licking County:Ohio
+Limestone County: AL; TX
+Lincoln County: AR; CO; GA; ID; KS; KY; ME; MN; MS; MO; MT; NE; NV; NM; NC; OK; OR; SD; TN; WA; WV; WI; WY
+Lincoln Parish:Louisiana
+Linn County: IA; KS; MO; OR
+Lipscomb County:Texas
+Litchfield County:Connecticut
+Little River County:Arkansas
+Live Oak County:Texas
+Livingston County: IL; KY; MI; MO; NY
+Livingston Parish:Louisiana
+Llano County:Texas
+Logan County: AR; CO; IL; KS; KY; NE; ND; OH; OK; WV
+Long County:Georgia
+Lonoke County:Arkansas
+Lorain County:Ohio
+Los Alamos County:New Mexico
+Los Angeles County:California
+Loudon County:Tennessee
+Loudoun County:Virginia
+Louisa County: IA; VA
+Loup County:Nebraska
+Love County:Oklahoma
+Loving County:Texas
+Lowndes County: AL; GA; MS
+Lubbock County:Texas
+Lucas County: IA; OH
+Luce County:Michigan
+Lumpkin County:Georgia
+Luna County:New Mexico
+Lunenburg County:Virginia
+Luzerne County:Pennsylvania
+Lycoming County:Pennsylvania
+Lyman County:South Dakota
+Lynn County:Texas
+Lyon County: IA; KS; KY; MN; NV
+Mackinac County:Michigan
+Macomb County:Michigan
+Macon County: AL; GA; IL; MO; NC; TN
+Macoupin County:Illinois
+Madera County:California
+Madison County: AL; AR; FL; GA; ID; IL; IN; IA; KY; MS; MO; MT; NE; NY; NC; OH; TN; TX; VA
+Madison Parish:Louisiana
+Magoffin County:Kentucky
+Mahaska County:Iowa
+Mahnomen County:Minnesota
+Mahoning County:Ohio
+Major County:Oklahoma
+Malheur County:Oregon
+Manatee County:Florida
+Manistee County:Michigan
+Manitowoc County:Wisconsin
+Marathon County:Wisconsin
+Marengo County:Alabama
+Maricopa County:Arizona
+Maries County:Missouri
+Marin County:California
+Marinette County:Wisconsin
+Marion County: AL; AR; FL; GA; IL; IN; IA; KS; KY; MS; MO; OH; OR; SC; TN; TX; WV
+Mariposa County:California
+Marlboro County:South Carolina
+Marquette County: MI; WI
+Marshall County: AL; IL; IN; IA; KS; KY; MN; MS; OK; SD; TN; WV
+Martin County: FL; IN; KY; MN; NC; TX
+Mason County: IL; KY; MI; TX; WA; WV
+Massac County:Illinois
+Matagorda County:Texas
+Matanuska-Susitna Borough:Alaska
+Mathews County:Virginia
+Maui County:Hawaii
+Maury County:Tennessee
+Maverick County:Texas
+Mayes County:Oklahoma
+McClain County:Oklahoma
+McCone County:Montana
+McCook County:South Dakota
+McCormick County:South Carolina
+McCracken County:Kentucky
+McCreary County:Kentucky
+McCulloch County:Texas
+McCurtain County:Oklahoma
+McDonald County:Missouri
+McDonough County:Illinois
+McDowell County: NC; WV
+McDuffie County:Georgia
+McHenry County: IL; ND
+McIntosh County: GA; ND; OK
+McKean County:Pennsylvania
+McKenzie County:North Dakota
+McKinley County:New Mexico
+McLean County: IL; KY; ND
+McLennan County:Texas
+McLeod County:Minnesota
+McMinn County:Tennessee
+McMullen County:Texas
+McNairy County:Tennessee
+McPherson County: KS; NE; SD
+Meade County: KS; KY; SD
+Meagher County:Montana
+Mecklenburg County: NC; VA
+Mecosta County:Michigan
+Medina County: OH; TX
+Meeker County:Minnesota
+Meigs County: OH; TN
+Mellette County:South Dakota
+Menard County: IL; TX
+Mendocino County:California
+Menifee County:Kentucky
+Menominee County: MI; WI
+Merced County:California
+Mercer County: IL; KY; MO; NJ; ND; OH; PA; WV
+Meriwether County:Georgia
+Merrick County:Nebraska
+Merrimack County:New Hampshire
+Mesa County:Colorado
+Metcalfe County:Kentucky
+Miami County: IN; KS; OH
+Miami-Dade County:Florida
+Middlesex County: CT; MA; NJ; VA
+Midland County: MI; TX
+Mifflin County:Pennsylvania
+Milam County:Texas
+Millard County:Utah
+Mille Lacs County:Minnesota
+Miller County: AR; GA; MO
+Mills County: IA; TX
+Milwaukee County:Wisconsin
+Miner County:South Dakota
+Mineral County: CO; MT; NV; WV
+Mingo County:West Virginia
+Minidoka County:Idaho
+Minnehaha County:South Dakota
+Missaukee County:Michigan
+Mississippi County: AR; MO
+Missoula County:Montana
+Mitchell County: GA; IA; KS; NC; TX
+Mobile County:Alabama
+Modoc County:California
+Moffat County:Colorado
+Mohave County:Arizona
+Moniteau County:Missouri
+Monmouth County:New Jersey
+Mono County:California
+Monona County:Iowa
+Monongalia County:West Virginia
+Monroe County: AL; AR; FL; GA; IL; IN; IA; KY; MI; MS; MO; NY; OH; PA; TN; WV; WI
+Montague County:Texas
+Montcalm County:Michigan
+Monterey County:California
+Montezuma County:Colorado
+Montgomery County: AL; AR; GA; IL; IN; IA; KS; KY; MD; MS; MO; NY; NC; OH; PA; TN; TX; VA
+Montmorency County:Michigan
+Montour County:Pennsylvania
+Montrose County:Colorado
+Moody County:South Dakota
+Moore County: NC; TN; TX
+Mora County:New Mexico
+Morehouse Parish:Louisiana
+Morgan County: AL; CO; GA; IL; IN; KY; MO; OH; TN; UT; WV
+Morrill County:Nebraska
+Morris County: KS; NJ; TX
+Morrison County:Minnesota
+Morrow County: OH; OR
+Morton County: KS; ND
+Motley County:Texas
+Moultrie County:Illinois
+Mountrail County:North Dakota
+Mower County:Minnesota
+Muhlenberg County:Kentucky
+Multnomah County:Oregon
+Murray County: GA; MN; OK
+Muscatine County:Iowa
+Muscogee County:Georgia
+Muskegon County:Michigan
+Muskingum County:Ohio
+Muskogee County:Oklahoma
+Musselshell County:Montana
+Nacogdoches County:Texas
+Nance County:Nebraska
+Town and County of Nantucket:Massachusetts
+Napa County:California
+Nash County:North Carolina
+Nassau County: FL; NY
+Natchitoches Parish:Louisiana
+Natrona County:Wyoming
+Navajo County:Arizona
+Navarro County:Texas
+Nelson County: KY; ND; VA
+Nemaha County: KS; NE
+Neosho County:Kansas
+Neshoba County:Mississippi
+Ness County:Kansas
+Nevada County: AR; CA
+New Castle County:Delaware
+New Hanover County:North Carolina
+New Haven County:Connecticut
+New Kent County:Virginia
+New London County:Connecticut
+New Madrid County:Missouri
+New York County:New York
+Newaygo County:Michigan
+Newberry County:South Carolina
+Newport County:Rhode Island
+Newton County: AR; GA; IN; MS; MO; TX
+Nez Perce County:Idaho
+Niagara County:New York
+Nicholas County: KY; WV
+Nicollet County:Minnesota
+Niobrara County:Wyoming
+Noble County: IN; OH; OK
+Nobles County:Minnesota
+Nodaway County:Missouri
+Nolan County:Texas
+Nome Census Area:Alaska
+Norfolk County:Massachusetts
+Norman County:Minnesota
+North Slope Borough:Alaska
+Northampton County: NC; PA; VA
+Northumberland County: PA; VA
+Northwest Arctic Borough:Alaska
+Norton County:Kansas
+Nottoway County:Virginia
+Nowata County:Oklahoma
+Noxubee County:Mississippi
+Nuckolls County:Nebraska
+Nueces County:Texas
+Nye County:Nevada
+O'Brien County:Iowa
+Oakland County:Michigan
+Obion County:Tennessee
+Ocean County:New Jersey
+Oceana County:Michigan
+Ochiltree County:Texas
+Oconee County: GA; SC
+Oconto County:Wisconsin
+Ogemaw County:Michigan
+Ogle County:Illinois
+Oglethorpe County:Georgia
+Ohio County: IN; KY; WV
+Okaloosa County:Florida
+Okanogan County:Washington
+Okeechobee County:Florida
+Okfuskee County:Oklahoma
+Oklahoma County:Oklahoma
+Okmulgee County:Oklahoma
+Oktibbeha County:Mississippi
+Oldham County: KY; TX
+Oliver County:North Dakota
+Olmsted County:Minnesota
+Oneida County: ID; NY; WI
+Onondaga County:New York
+Onslow County:North Carolina
+Ontario County:New York
+Ontonagon County:Michigan
+Orange County: CA; FL; IN; NY; NC; TX; VT; VA
+Orangeburg County:South Carolina
+Oregon County:Missouri
+Orleans County: NY; VT
+Orleans Parish:Louisiana
+Osage County: KS; MO; OK
+Osborne County:Kansas
+Osceola County: FL; IA; MI
+Oscoda County:Michigan
+Oswego County:New York
+Otero County: CO; NM
+Otoe County:Nebraska
+Otsego County: MI; NY
+Ottawa County: KS; MI; OH; OK
+Otter Tail County:Minnesota
+Ouachita County:Arkansas
+Ouachita Parish:Louisiana
+Ouray County:Colorado
+Outagamie County:Wisconsin
+Overton County:Tennessee
+Owen County: IN; KY
+Owsley County:Kentucky
+Owyhee County:Idaho
+Oxford County:Maine
+Ozark County:Missouri
+Ozaukee County:Wisconsin
+Pacific County:Washington
+Page County: IA; VA
+Palm Beach County:Florida
+Palo Alto County:Iowa
+Palo Pinto County:Texas
+Pamlico County:North Carolina
+Panola County: MS; TX
+Park County: CO; MT; WY
+Parke County:Indiana
+Parker County:Texas
+Parmer County:Texas
+Pasco County:Florida
+Pasquotank County:North Carolina
+Passaic County:New Jersey
+Patrick County:Virginia
+Paulding County: GA; OH
+Pawnee County: KS; NE; OK
+Payette County:Idaho
+Payne County:Oklahoma
+Peach County:Georgia
+Pearl River County:Mississippi
+Pecos County:Texas
+Pembina County:North Dakota
+Pemiscot County:Missouri
+Pend Oreille County:Washington
+Pender County:North Carolina
+Pendleton County: KY; WV
+Pennington County: MN; SD
+Penobscot County:Maine
+Peoria County:Illinois
+Pepin County:Wisconsin
+Perkins County: NE; SD
+Perquimans County:North Carolina
+Perry County: AL; AR; IL; IN; KY; MS; MO; OH; PA; TN
+Pershing County:Nevada
+Person County:North Carolina
+Petersburg Census Area:Alaska
+Petroleum County:Montana
+Pettis County:Missouri
+Phelps County: MO; NE
+Philadelphia County:Pennsylvania
+Phillips County: AR; CO; KS; MT
+Piatt County:Illinois
+Pickaway County:Ohio
+Pickens County: AL; GA; SC
+Pickett County:Tennessee
+Pierce County: GA; NE; ND; WA; WI
+Pike County: AL; AR; GA; IL; IN; KY; MS; MO; OH; PA
+Pima County:Arizona
+Pinal County:Arizona
+Pine County:Minnesota
+Pinellas County:Florida
+Pipestone County:Minnesota
+Piscataquis County:Maine
+Pitkin County:Colorado
+Pitt County:North Carolina
+Pittsburg County:Oklahoma
+Pittsylvania County:Virginia
+Piute County:Utah
+Placer County:California
+Plaquemines Parish:Louisiana
+Platte County: MO; NE; WY
+Pleasants County:West Virginia
+Plumas County:California
+Plymouth County: IA; MA
+Pocahontas County: IA; WV
+Poinsett County:Arkansas
+Pointe Coupee Parish:Louisiana
+Polk County: AR; FL; GA; IA; MN; MO; NE; NC; OR; TN; TX; WI
+Pondera County:Montana
+Pontotoc County: MS; OK
+Pope County: AR; IL; MN
+Portage County: OH; WI
+Porter County:Indiana
+Posey County:Indiana
+Pottawatomie County: KS; OK
+Pottawattamie County:Iowa
+Potter County: PA; SD; TX
+Powder River County:Montana
+Powell County: KY; MT
+Power County:Idaho
+Poweshiek County:Iowa
+Powhatan County:Virginia
+Prairie County: AR; MT
+Pratt County:Kansas
+Preble County:Ohio
+Prentiss County:Mississippi
+Presidio County:Texas
+Presque Isle County:Michigan
+Preston County:West Virginia
+Price County:Wisconsin
+Prince Edward County:Virginia
+Prince George County:Virginia
+Prince George's County:Maryland
+Prince William County:Virginia
+Prince of Wales – Hyder Census Area:Alaska
+Providence County:Rhode Island
+Prowers County:Colorado
+Pueblo County:Colorado
+Pulaski County: AR; GA; IL; IN; KY; MO; VA
+Pushmataha County:Oklahoma
+Putnam County: FL; GA; IL; IN; MO; NY; OH; TN; WV
+Quay County:New Mexico
+Queen Anne's County:Maryland
+Queens County:New York
+Quitman County: GA; MS
+Rabun County:Georgia
+Racine County:Wisconsin
+Rains County:Texas
+Raleigh County:West Virginia
+Ralls County:Missouri
+Ramsey County: MN; ND
+Randall County:Texas
+Randolph County: AL; AR; GA; IL; IN; MO; NC; WV
+Rankin County:Mississippi
+Ransom County:North Dakota
+Rapides Parish:Louisiana
+Rappahannock County:Virginia
+Ravalli County:Montana
+Rawlins County:Kansas
+Ray County:Missouri
+Reagan County:Texas
+Real County:Texas
+Red Lake County:Minnesota
+Red River County:Texas
+Red River Parish:Louisiana
+Red Willow County:Nebraska
+Redwood County:Minnesota
+Reeves County:Texas
+Refugio County:Texas
+Reno County:Kansas
+Rensselaer County:New York
+Renville County: MN; ND
+Republic County:Kansas
+Reynolds County:Missouri
+Rhea County:Tennessee
+Rice County: KS; MN
+Rich County:Utah
+Richardson County:Nebraska
+Richland County: IL; MT; ND; OH; SC; WI
+Richland Parish:Louisiana
+Richmond County: GA; NY; NC; VA
+Riley County:Kansas
+Ringgold County:Iowa
+Rio Arriba County:New Mexico
+Rio Blanco County:Colorado
+Rio Grande County:Colorado
+Ripley County: IN; MO
+Ritchie County:West Virginia
+Riverside County:California
+Roane County: TN; WV
+Roanoke County:Virginia
+Roberts County: SD; TX
+Robertson County: KY; TN; TX
+Robeson County:North Carolina
+Rock County: MN; NE; WI
+Rock Island County:Illinois
+Rockbridge County:Virginia
+Rockcastle County:Kentucky
+Rockdale County:Georgia
+Rockingham County: NH; NC; VA
+Rockland County:New York
+Rockwall County:Texas
+Roger Mills County:Oklahoma
+Rogers County:Oklahoma
+Rolette County:North Dakota
+Rooks County:Kansas
+Roosevelt County: MT; NM
+Roscommon County:Michigan
+Roseau County:Minnesota
+Rosebud County:Montana
+Ross County:Ohio
+Routt County:Colorado
+Rowan County: KY; NC
+Runnels County:Texas
+Rush County: IN; KS
+Rusk County: TX; WI
+Russell County: AL; KS; KY; VA
+Rutherford County: NC; TN
+Rutland County:Vermont
+Sabine County:Texas
+Sabine Parish:Louisiana
+Sac County:Iowa
+Sacramento County:California
+Sagadahoc County:Maine
+Saginaw County:Michigan
+Saguache County:Colorado
+Saint Helena Parish:Louisiana
+Sainte Genevieve County:Missouri
+Salem County:New Jersey
+Saline County: AR; IL; KS; MO; NE
+Salt Lake County:Utah
+Saluda County:South Carolina
+Sampson County:North Carolina
+San Augustine County:Texas
+San Benito County:California
+San Bernardino County:California
+San Diego County:California
+City and County of San Francisco:California
+San Jacinto County:Texas
+San Joaquin County:California
+San Juan County: CO; NM; UT; WA
+San Luis Obispo County:California
+San Mateo County:California
+San Miguel County: CO; NM
+San Patricio County:Texas
+San Saba County:Texas
+Sanborn County:South Dakota
+Sanders County:Montana
+Sandoval County:New Mexico
+Sandusky County:Ohio
+Sangamon County:Illinois
+Sanilac County:Michigan
+Sanpete County:Utah
+Santa Barbara County:California
+Santa Clara County:California
+Santa Cruz County: AZ; CA
+Santa Fe County:New Mexico
+Santa Rosa County:Florida
+Sarasota County:Florida
+Saratoga County:New York
+Sargent County:North Dakota
+Sarpy County:Nebraska
+Sauk County:Wisconsin
+Saunders County:Nebraska
+Sawyer County:Wisconsin
+Schenectady County:New York
+Schleicher County:Texas
+Schley County:Georgia
+Schoharie County:New York
+Schoolcraft County:Michigan
+Schuyler County: IL; MO; NY
+Schuylkill County:Pennsylvania
+Scioto County:Ohio
+Scotland County: MO; NC
+Scott County: AR; IL; IN; IA; KS; KY; MN; MS; MO; TN; VA
+Scotts Bluff County:Nebraska
+Screven County:Georgia
+Scurry County:Texas
+Searcy County:Arkansas
+Sebastian County:Arkansas
+Sedgwick County: CO; KS
+Seminole County: FL; GA; OK
+Seneca County: NY; OH
+Sequatchie County:Tennessee
+Sequoyah County:Oklahoma
+Sevier County: AR; TN; UT
+Seward County: KS; NE
+Shackelford County:Texas
+Shannon County: MO; SD
+Sharkey County:Mississippi
+Sharp County:Arkansas
+Shasta County:California
+Shawano County:Wisconsin
+Shawnee County:Kansas
+Sheboygan County:Wisconsin
+Shelby County: AL; IL; IN; IA; KY; MO; OH; TN; TX
+Shenandoah County:Virginia
+Sherburne County:Minnesota
+Sheridan County: KS; MT; NE; ND; WY
+Sherman County: KS; NE; OR; TX
+Shiawassee County:Michigan
+Shoshone County:Idaho
+Sibley County:Minnesota
+Sierra County: CA; NM
+Silver Bow County:Montana
+Simpson County: KY; MS
+Sioux County: IA; NE; ND
+Siskiyou County:California
+Sitka:Alaska
+Skagit County:Washington
+Skagway-Hoonah-Angoon Census Area:Alaska
+Skamania County:Washington
+Slope County:North Dakota
+Smith County: KS; MS; TN; TX
+Smyth County:Virginia
+Snohomish County:Washington
+Snyder County:Pennsylvania
+Socorro County:New Mexico
+Solano County:California
+Somerset County: ME; MD; NJ; PA
+Somervell County:Texas
+Sonoma County:California
+Southampton County:Virginia
+Southeast Fairbanks Census Area:Alaska
+Spalding County:Georgia
+Spartanburg County:South Carolina
+Spencer County: IN; KY
+Spink County:South Dakota
+Spokane County:Washington
+Spotsylvania County:Virginia
+St. Bernard Parish:Louisiana
+St. Charles County:Missouri
+St. Charles Parish:Louisiana
+St. Clair County: AL; IL; MI; MO
+St. Croix County:Wisconsin
+St. Francis County:Arkansas
+St. Francois County:Missouri
+St. James Parish:Louisiana
+St. John the Baptist Parish:Louisiana
+St. Johns County:Florida
+St. Joseph County: IN; MI
+St. Landry Parish:Louisiana
+St. Lawrence County:New York
+St. Louis County: MN; MO
+St. Lucie County:Florida
+St. Martin Parish:Louisiana
+St. Mary Parish:Louisiana
+St. Mary's County:Maryland
+St. Tammany Parish:Louisiana
+Stafford County: KS; VA
+Stanislaus County:California
+Stanley County:South Dakota
+Stanly County:North Carolina
+Stanton County: KS; NE
+Stark County: IL; ND; OH
+Starke County:Indiana
+Starr County:Texas
+Stearns County:Minnesota
+Steele County: MN; ND
+Stephens County: GA; OK; TX
+Stephenson County:Illinois
+Sterling County:Texas
+Steuben County: IN; NY
+Stevens County: KS; MN; WA
+Stewart County: GA; TN
+Stillwater County:Montana
+Stoddard County:Missouri
+Stokes County:North Carolina
+Stone County: AR; MS; MO
+Stonewall County:Texas
+Storey County:Nevada
+Story County:Iowa
+Strafford County:New Hampshire
+Stutsman County:North Dakota
+Sublette County:Wyoming
+Suffolk County: MA; NY
+Sullivan County: IN; MO; NH; NY; PA; TN
+Sully County:South Dakota
+Summers County:West Virginia
+Summit County: CO; OH; UT
+Sumner County: KS; TN
+Sumter County: AL; FL; GA; SC
+Sunflower County:Mississippi
+Surry County: NC; VA
+Susquehanna County:Pennsylvania
+Sussex County: DE; NJ; VA
+Sutter County:California
+Sutton County:Texas
+Suwannee County:Florida
+Swain County:North Carolina
+Sweet Grass County:Montana
+Sweetwater County:Wyoming
+Swift County:Minnesota
+Swisher County:Texas
+Switzerland County:Indiana
+Talbot County: GA; MD
+Taliaferro County:Georgia
+Talladega County:Alabama
+Tallahatchie County:Mississippi
+Tallapoosa County:Alabama
+Tama County:Iowa
+Taney County:Missouri
+Tangipahoa Parish:Louisiana
+Taos County:New Mexico
+Tarrant County:Texas
+Tate County:Mississippi
+Tattnall County:Georgia
+Taylor County: FL; GA; IA; KY; TX; WV; WI
+Tazewell County: IL; VA
+Tehama County:California
+Telfair County:Georgia
+Teller County:Colorado
+Tensas Parish:Louisiana
+Terrebonne Parish:Louisiana
+Terrell County: GA; TX
+Terry County:Texas
+Teton County: ID; MT; WY
+Texas County: MO; OK
+Thayer County:Nebraska
+Thomas County: GA; KS; NE
+Throckmorton County:Texas
+Thurston County: NE; WA
+Tift County:Georgia
+Tillamook County:Oregon
+Tillman County:Oklahoma
+Tioga County: NY; PA
+Tippah County:Mississippi
+Tippecanoe County:Indiana
+Tipton County: IN; TN
+Tishomingo County:Mississippi
+Titus County:Texas
+Todd County: KY; MN; SD
+Tolland County:Connecticut
+Tom Green County:Texas
+Tompkins County:New York
+Tooele County:Utah
+Toole County:Montana
+Toombs County:Georgia
+Torrance County:New Mexico
+Towner County:North Dakota
+Towns County:Georgia
+Traill County:North Dakota
+Transylvania County:North Carolina
+Traverse County:Minnesota
+Travis County:Texas
+Treasure County:Montana
+Trego County:Kansas
+Trempealeau County:Wisconsin
+Treutlen County:Georgia
+Trigg County:Kentucky
+Trimble County:Kentucky
+Trinity County: CA; TX
+Tripp County:South Dakota
+Troup County:Georgia
+Trousdale County:Tennessee
+Trumbull County:Ohio
+Tucker County:West Virginia
+Tulare County:California
+Tulsa County:Oklahoma
+Tunica County:Mississippi
+Tuolumne County:California
+Turner County: GA; SD
+Tuscaloosa County:Alabama
+Tuscarawas County:Ohio
+Tuscola County:Michigan
+Twiggs County:Georgia
+Twin Falls County:Idaho
+Tyler County: TX; WV
+Tyrrell County:North Carolina
+Uinta County:Wyoming
+Uintah County:Utah
+Ulster County:New York
+Umatilla County:Oregon
+Unicoi County:Tennessee
+Union County: AR; FL; GA; IL; IN; IA; KY; MS; NJ; NM; NC; OH; OR; PA; SC; SD; TN
+Union Parish:Louisiana
+Upshur County: TX; WV
+Upson County:Georgia
+Upton County:Texas
+Utah County:Utah
+Uvalde County:Texas
+Val Verde County:Texas
+Valdez–Cordova Census Area:Alaska
+Valencia County:New Mexico
+Valley County: ID; MT; NE
+Van Buren County: AR; IA; MI; TN
+Van Wert County:Ohio
+Van Zandt County:Texas
+Vance County:North Carolina
+Vanderburgh County:Indiana
+Venango County:Pennsylvania
+Ventura County:California
+Vermilion County:Illinois
+Vermilion Parish:Louisiana
+Vermillion County:Indiana
+Vernon County: MO; WI
+Vernon Parish:Louisiana
+Victoria County:Texas
+Vigo County:Indiana
+Vilas County:Wisconsin
+Vinton County:Ohio
+Volusia County:Florida
+Wabash County: IL; IN
+Wabasha County:Minnesota
+Wabaunsee County:Kansas
+Wade Hampton Census Area:Alaska
+Wadena County:Minnesota
+Wagoner County:Oklahoma
+Wahkiakum County:Washington
+Wake County:North Carolina
+Wakulla County:Florida
+Waldo County:Maine
+Walker County: AL; GA; TX
+Walla Walla County:Washington
+Wallace County:Kansas
+Waller County:Texas
+Wallowa County:Oregon
+Walsh County:North Dakota
+Walthall County:Mississippi
+Walton County: FL; GA
+Walworth County: SD; WI
+Wapello County:Iowa
+Ward County: ND; TX
+Ware County:Georgia
+Warren County: GA; IL; IN; IA; KY; MS; MO; NJ; NY; NC; OH; PA; TN; VA
+Warrick County:Indiana
+Wasatch County:Utah
+Wasco County:Oregon
+Waseca County:Minnesota
+Washakie County:Wyoming
+Washburn County:Wisconsin
+Washington County: AL; AR; CO; FL; GA; ID; IL; IN; IA; KS; KY; ME; MD; MN; MS; MO; NE; NY; NC; OH; OK; OR; PA; RI; TN; TX; UT; VT; VA; WI
+Washington Parish:Louisiana
+Washita County:Oklahoma
+Washoe County:Nevada
+Washtenaw County:Michigan
+Watauga County:North Carolina
+Watonwan County:Minnesota
+Waukesha County:Wisconsin
+Waupaca County:Wisconsin
+Waushara County:Wisconsin
+Wayne County: GA; IL; IN; IA; KY; MI; MS; MO; NE; NY; NC; OH; PA; TN; UT; WV
+Weakley County:Tennessee
+Webb County:Texas
+Weber County:Utah
+Webster County: GA; IA; KY; MS; MO; NE; WV
+Webster Parish:Louisiana
+Weld County:Colorado
+Wells County: IN; ND
+West Baton Rouge Parish:Louisiana
+West Carroll Parish:Louisiana
+West Feliciana Parish:Louisiana
+Westchester County:New York
+Westmoreland County: PA; VA
+Weston County:Wyoming
+Wetzel County:West Virginia
+Wexford County:Michigan
+Wharton County:Texas
+Whatcom County:Washington
+Wheatland County:Montana
+Wheeler County: GA; NE; OR; TX
+White County: AR; GA; IL; IN; TN
+White Pine County:Nevada
+Whiteside County:Illinois
+Whitfield County:Georgia
+Whitley County: IN; KY
+Whitman County:Washington
+Wibaux County:Montana
+Wichita County: KS; TX
+Wicomico County:Maryland
+Wilbarger County:Texas
+Wilcox County: AL; GA
+Wilkes County: GA; NC
+Wilkin County:Minnesota
+Wilkinson County: GA; MS
+Will County:Illinois
+Willacy County:Texas
+Williams County: ND; OH
+Williamsburg County:South Carolina
+Williamson County: IL; TN; TX
+Wilson County: KS; NC; TN; TX
+Windham County: CT; VT
+Windsor County:Vermont
+Winkler County:Texas
+Winn Parish:Louisiana
+Winnebago County: IL; IA; WI
+Winneshiek County:Iowa
+Winona County:Minnesota
+Winston County: AL; MS
+Wirt County:West Virginia
+Wise County: TX; VA
+Wolfe County:Kentucky
+Wood County: OH; TX; WV; WI
+Woodbury County:Iowa
+Woodford County: IL; KY
+Woodruff County:Arkansas
+Woods County:Oklahoma
+Woodson County:Kansas
+Woodward County:Oklahoma
+Worcester County: MD; MA
+Worth County: GA; IA; MO
+Wright County: IA; MN; MO
+Wyandot County:Ohio
+Wyandotte County:Kansas
+Wyoming County: NY; PA; WV
+Wythe County:Virginia
+Yadkin County:North Carolina
+Yakima County:Washington
+Yakutat City and Borough:Alaska
+Yalobusha County:Mississippi
+Yamhill County:Oregon
+Yancey County:North Carolina
+Yankton County:South Dakota
+Yates County:New York
+Yavapai County:Arizona
+Yazoo County:Mississippi
+Yell County:Arkansas
+Yellow Medicine County:Minnesota
+Yellowstone County:Montana
+Yoakum County:Texas
+Yolo County:California
+York County: ME; NE; PA; SC; VA
+Young County:Texas
+Yuba County:California
+Yukon–Koyukuk Census Area:Alaska
+Yuma County: AZ; CO
+Zapata County:Texas
+Zavala County:Texas
+Ziebach County:South Dakota

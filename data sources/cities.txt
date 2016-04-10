@@ -1,0 +1,1269 @@
+1269
+Auburn
+Bessemer
+Birmingham
+Decatur
+Dothan
+Florence
+Gadsden
+Homewood
+Hoover
+Huntsville
+Madison
+Mobile
+Montgomery
+Phenix
+Prattville
+Prichard
+Tuscaloosa
+Vestavia Hills
+Anchorage
+Fairbanks
+Juneau
+Apache Junction
+Avondale
+Bullhead
+Casa Grande
+Chandler
+Flagstaff
+Gilbert
+Glendale
+Lake Havasu
+Mesa
+Oro Valley
+Peoria
+Phoenix
+Prescott
+Scottsdale
+Sierra Vista
+Surprise
+Tempe
+Tucson
+Yuma
+Conway
+Fayetteville
+Fort Smith
+Hot Springs
+Jacksonville
+Jonesboro
+Little Rock
+North Little Rock
+Pine Bluff
+Rogers
+Springdale
+Texarkana
+West Memphis
+Alameda
+Alhambra
+Aliso Viejo
+Anaheim
+Antioch
+Apple Valley
+Arcadia
+Atascadero
+Azusa
+Bakersfield
+Baldwin Park
+Bell
+Bellflower
+Bell Gardens
+Belmont
+Benicia
+Berkeley
+Beverly Hills
+Brea
+Buena Park
+Burbank
+Burlingame
+Calexico
+Camarillo
+Campbell
+Carlsbad
+Carson
+Cathedral
+Ceres
+Cerritos
+Chico
+Chino
+Chino Hills
+Chula Vista
+Citrus Heights
+Claremont
+Clovis
+Colton
+Compton
+Concord
+Corona
+Costa Mesa
+Covina
+Culver
+Cupertino
+Cypress
+Daly
+Dana Point
+Danville
+Davis
+Delano
+Diamond Bar
+Downey
+Dublin
+East Palo Alto
+El Cajon
+El Centro
+Elk Grove
+El Monte
+Encinitas
+Escondido
+Eureka
+Fairfield
+Folsom
+Fontana
+Foster
+Fountain Valley
+Fremont
+Fresno
+Fullerton
+Gardena
+Garden Grove
+Gilroy
+Glendale
+Glendora
+Goleta
+Hanford
+Hawthorne
+Hayward
+Hemet
+Hesperia
+Highland
+Hollister
+Huntington Beach
+Huntington Park
+Imperial Beach
+Indio
+Inglewood
+Irvine
+Laguna Hills
+Laguna Niguel
+La Habra
+Lake Elsinore
+Lake Forest
+Lakewood
+La Mesa
+La Mirada
+Lancaster
+La Puente
+La Verne
+Lawndale
+Livermore
+Lodi
+Lompoc
+Long Beach
+Los Altos
+Los Angeles
+Los Banos
+Los Gatos
+Lynwood
+Madera
+Manhattan Beach
+Manteca
+Martinez
+Maywood
+Menlo Park
+Merced
+Milpitas
+Mission Viejo
+Modesto
+Monrovia
+Montclair
+Montebello
+Monterey
+Monterey Park
+Moorpark
+Moreno Valley
+Morgan Hill
+Mountain View
+Murrieta
+Napa
+National
+Newark
+Newport Beach
+Norwalk
+Novato
+Oakland
+Oakley
+Oceanside
+Ontario
+Orange
+Oxnard
+Pacifica
+Palmdale
+Palm Desert
+Palm Springs
+Palo Alto
+Paradise
+Paramount
+Pasadena
+Perris
+Petaluma
+Pico Rivera
+Pittsburg
+Placentia
+Pleasant Hill
+Pleasanton
+Pomona
+Porterville
+Poway
+Rancho Cordova
+Rancho Cucamonga
+Rancho Palos Verdes
+Rancho Santa Margarita
+Redding
+Redlands
+Redondo Beach
+Redwood
+Rialto
+Richmond
+Riverside
+Rocklin
+Rohnert Park
+Rosemead
+Roseville
+Sacramento
+Salinas
+San Bernardino
+San Bruno
+San Buenaventura
+San Carlos
+San Clemente
+San Diego
+San Dimas
+San Francisco
+San Gabriel
+San Jose
+San Juan Capistrano
+San Leandro
+San Luis Obispo
+San Marcos
+San Mateo
+San Pablo
+San Rafael
+San Ramon
+Santa Ana
+Santa Barbara
+Santa Clara
+Santa Clarita
+Santa Cruz
+Santa Maria
+Santa Monica
+Santa Paula
+Santa Rosa
+Santee
+Saratoga
+Seaside
+Simi Valley
+South Gate
+South San Francisco
+Stanton
+Stockton
+Suisun
+Sunnyvale
+Temecula
+Temple
+Thousand Oaks
+Torrance
+Tracy
+Tulare
+Turlock
+Tustin
+Twentynine Palms
+Union
+Upland
+Vacaville
+Vallejo
+Victorville
+Visalia
+Vista
+Walnut
+Walnut Creek
+Watsonville
+West Covina
+West Hollywood
+Westminster
+West Sacramento
+Whittier
+Woodland
+Yorba Linda
+Yuba
+Yucaipa
+Arvada
+Aurora
+Boulder
+Broomfield
+Centennial
+Colorado Springs
+Denver
+Englewood
+Fort Collins
+Grand Junction
+Greeley
+Lakewood
+Littleton
+Longmont
+Loveland
+Northglenn
+Pueblo
+Thornton
+Westminster
+Wheat Ridge
+Bridgeport
+Bristol
+Danbury
+Hartford
+Meriden
+Middletown
+Milford
+Naugatuck
+New Britain
+New Haven
+New London
+Norwalk
+Norwich
+Shelton
+Stamford
+Torrington
+Waterbury
+West Haven
+Dover
+Newark
+Wilmington
+Washington
+Altamonte Springs
+Apopka
+Aventura
+Boca Raton
+Bonita Springs
+Boynton Beach
+Bradenton
+Cape Coral
+Clearwater
+Coconut Creek
+Cooper
+Coral Gables
+Coral Springs
+Dania Beach
+Davie
+Daytona Beach
+Deerfield Beach
+Delray Beach
+Deltona
+Dunedin
+Fort Lauderdale
+Fort Myers
+Fort Pierce
+Gainesville
+Greenacres
+Hallandale Beach
+Hialeah
+Hollywood
+Homestead
+Jacksonville
+Jupiter
+Key West
+Kissimmee
+Lakeland
+Lake Worth
+Largo
+Lauderdale Lakes
+Lauderhill
+Margate
+Melbourne
+Miami
+Miami Beach
+Miami Gardens
+Miramar
+North Lauderdale
+North Miami
+North Miami Beach
+Oakland Park
+Ocala
+Orlando
+Ormond Beach
+Oviedo
+Palm Bay
+Palm Beach Gardens
+Palm Coast
+Panama
+Pembroke Pines
+Pensacola
+Pinellas Park
+Plantation
+Plant
+Pompano Beach
+Port Orange
+Port St. Lucie
+Riviera Beach
+St. Petersburg
+Sanford
+Sarasota
+Sunrise
+Tallahassee
+Tamarac
+Tampa
+Titusville
+Wellington
+Weston
+West Palm Beach
+Winter Haven
+Winter Park
+Winter Springs
+Albany
+Alpharetta
+Athens-Clarke County
+Atlanta
+Columbus
+Dalton
+East Point
+Gainesville
+Hinesville
+LaGrange
+Macon
+Marietta
+Peachtree
+Rome
+Roswell
+Savannah
+Smyrna
+Valdosta
+Warner Robins
+Honolulu CDP
+Boise
+Caldwell
+Coeur d'Alene
+Idaho Falls
+Lewiston
+Meridian
+Nampa
+Pocatello
+Twin Falls
+Addison
+Alton
+Arlington Heights
+Aurora
+Bartlett
+Belleville
+Berwyn
+Bloomington
+Bolingbrook
+Buffalo Grove
+Burbank
+Calumet
+Carbondale
+Carol Stream
+Carpentersville
+Champaign
+Chicago
+Chicago Heights
+Cicero
+Crystal Lake
+Danville
+Decatur
+DeKalb
+Des Plaines
+Dolton
+Downers Grove
+East St. Louis
+Elgin
+Elk Grove
+Elmhurst
+Elmwood Park
+Evanston
+Freeport
+Galesburg
+Glendale Heights
+Glen Ellyn
+Glenview
+Granite
+Gurnee
+Hanover Park
+Harvey
+Highland Park
+Hoffman Estates
+Joliet
+Kankakee
+Lansing
+Lombard
+Maywood
+Moline
+Mount Prospect
+Mundelein
+Naperville
+Niles
+Normal
+Northbrook
+North Chicago
+Oak Forest
+Oak Lawn
+Oak Park
+Orland Park
+Palatine
+Park Ridge
+Pekin
+Peoria
+Quincy
+Rockford
+Rock Island
+Round Lake Beach
+St. Charles
+Schaumburg
+Skokie
+Springfield
+Streamwood
+Tinley Park
+Urbana
+Waukegan
+Wheaton
+Wheeling
+Wilmette
+Woodridge
+Anderson
+Bloomington
+Carmel
+Columbus
+East Chicago
+Elkhart
+Evansville
+Fishers
+Fort Wayne
+Gary
+Goshen
+Greenwood
+Hammond
+Hobart
+Indianapolis
+Jeffersonville
+Kokomo
+Lafayette
+Lawrence
+Marion
+Merrillville
+Michigan
+Mishawaka
+Muncie
+New Albany
+Noblesville
+Portage
+Richmond
+South Bend
+Terre Haute
+Valparaiso
+West Lafayette
+Ames
+Ankeny
+Bettendorf
+Burlington
+Cedar Falls
+Cedar Rapids
+Clinton
+Council Bluffs
+Davenport
+Des Moines
+Dubuque
+Fort Dodge
+Iowa
+Marion
+Marshalltown
+Mason
+Sioux
+Urbandale
+Waterloo
+West Des Moines
+KANSAS
+Dodge
+Emporia
+Garden
+Hutchinson
+Kansas
+Lawrence
+Leavenworth
+Leawood
+Lenexa
+Manhattan
+Olathe
+Overland Park
+Salina
+Shawnee
+Topeka
+Wichita
+Bowling Green
+Covington
+Frankfort
+Henderson
+Hopkinsville
+Jeffersontown
+Lexington-Fayette
+Louisville
+Owensboro
+Paducah
+Richmond
+Alexandria
+Baton Rouge
+Bossier
+Houma
+Kenner
+Lafayette
+Lake Charles
+Monroe
+New Iberia
+New Orleans
+Shreveport
+Slidell
+Bangor
+Lewiston
+Portland
+Annapolis
+Baltimore
+Bowie
+Frederick
+Gaithersburg
+Hagerstown
+Rockville
+Agawam
+Attleboro
+Barnstable
+Beverly
+Boston
+Brockton
+Cambridge
+Chelsea
+Chicopee
+Everett
+Fall River
+Fitchburg
+Franklin
+Gloucester
+Haverhill
+Holyoke
+Lawrence
+Leominster
+Lowell
+Lynn
+Malden
+Marlborough
+Medford
+Melrose
+Methuen
+New Bedford
+Newton
+Northampton
+Peabody
+Pittsfield
+Quincy
+Revere
+Salem
+Somerville
+Springfield
+Taunton
+Waltham
+Watertown
+Westfield
+West Springfield
+Woburn
+Worcester
+Allen Park
+Ann Arbor
+Battle Creek
+Bay
+Burton
+Dearborn
+Dearborn Heights
+Detroit
+East Lansing
+Eastpointe
+Farmington Hills
+Flint
+Garden
+Grand Rapids
+Holland
+Inkster
+Jackson
+Kalamazoo
+Kentwood
+Lansing
+Lincoln Park
+Livonia
+Madison Heights
+Midland
+Mount Pleasant
+Muskegon
+Novi
+Oak Park
+Pontiac
+Portage
+Port Huron
+Rochester Hills
+Roseville
+Royal Oak
+Saginaw
+St. Clair Shores
+Southfield
+Southgate
+Sterling Heights
+Taylor
+Troy
+Warren
+Westland
+Wyandotte
+Wyoming
+Andover
+Apple Valley
+Blaine
+Bloomington
+Brooklyn Center
+Brooklyn Park
+Burnsville
+Coon Rapids
+Cottage Grove
+Duluth
+Eagan
+Eden Prairie
+Edina
+Fridley
+Inver Grove Heights
+Lakeville
+Mankato
+Maple Grove
+Maplewood
+Minneapolis
+Minnetonka
+Moorhead
+Oakdale
+Plymouth
+Richfield
+Rochester
+Roseville
+St. Cloud
+St. Louis Park
+St. Paul
+Shoreview
+Winona
+Woodbury
+Biloxi
+Clinton
+Columbus
+Greenville
+Gulfport
+Hattiesburg
+Jackson
+Meridian
+Pascagoula
+Southaven
+Tupelo
+Vicksburg
+Ballwin
+Blue Springs
+Cape Girardeau
+Chesterfield
+Columbia
+Florissant
+Gladstone
+Hazelwood
+Independence
+Jefferson
+Joplin
+Kansas
+Kirkwood
+Lee's Summit
+Liberty
+Maryland Heights
+O'Fallon
+Raytown
+St. Charles
+St. Joseph
+St. Louis
+St. Peters
+Springfield
+University
+Wildwood
+Billings
+Bozeman
+Butte-Silver Bow
+Great Falls
+Helena
+Missoula
+Bellevue
+Fremont
+Grand Island
+Kearney
+Lincoln
+Omaha
+Carson
+Henderson
+Las Vegas
+North Las Vegas
+Reno
+Sparks
+Concord
+Dover
+Manchester
+Nashua
+Rochester
+NEW JERSEY
+Atlantic
+Bayonne
+Bergenfield
+Camden
+Clifton
+East Orange
+Elizabeth
+Englewood
+Fair Lawn
+Fort Lee
+Garfield
+Hackensack
+Hoboken
+Jersey
+Kearny
+Linden
+Long Branch
+Millville
+Newark
+New Brunswick
+Paramus
+Passaic
+Paterson
+Perth Amboy
+Plainfield
+Rahway
+Sayreville
+Trenton
+Union
+Vineland
+Westfield
+West New York
+Alamogordo
+Albuquerque
+Carlsbad
+Clovis
+Farmington
+Hobbs
+Las Cruces
+Rio Rancho
+Roswell
+Santa Fe
+Albany
+Auburn
+Binghamton
+Buffalo
+Elmira
+Freeport
+Glen Cove
+Hempstead
+Ithaca
+Jamestown
+Lindenhurst
+Long Beach
+Middletown
+Mount Vernon
+Newburgh
+New Rochelle
+New York
+Niagara Falls
+North Tonawanda
+Port Chester
+Poughkeepsie
+Rochester
+Rome
+Saratoga Springs
+Schenectady
+Spring Valley
+Syracuse
+Troy
+Utica
+Valley Stream
+Watertown
+White Plains
+Yonkers
+Asheville
+Burlington
+Cary
+Chapel Hill
+Charlotte
+Concord
+Durham
+Fayetteville
+Gastonia
+Goldsboro
+Greensboro
+Greenville
+Hickory
+High Point
+Huntersville
+Jacksonville
+Kannapolis
+Monroe
+Raleigh
+Rocky Mount
+Salisbury
+Wilmington
+Wilson
+Winston-Salem
+Bismarck
+Fargo
+Grand Forks
+Minot
+Akron
+Barberton
+Beavercreek
+Bowling Green
+Brunswick
+Canton
+Cincinnati
+Cleveland
+Cleveland Heights
+Columbus
+Cuyahoga Falls
+Dayton
+Delaware
+Dublin
+East Cleveland
+Elyria
+Euclid
+Fairborn
+Fairfield
+Findlay
+Gahanna
+Garfield Heights
+Grove
+Hamilton
+Huber Heights
+Kent
+Kettering
+Lakewood
+Lancaster
+Lima
+Lorain
+Mansfield
+Maple Heights
+Marion
+Massillon
+Medina
+Mentor
+Middletown
+Newark
+North Olmsted
+North Royalton
+Parma
+Reynoldsburg
+Sandusky
+Shaker Heights
+Springfield
+Stow
+Strongsville
+Toledo
+Trotwood
+Upper Arlington
+Warren
+Westerville
+Westlake
+Youngstown
+Zanesville
+Bartlesville
+Broken Arrow
+Edmond
+Enid
+Lawton
+Midwest
+Moore
+Muskogee
+Norman
+Oklahoma
+Ponca
+Shawnee
+Stillwater
+Tulsa
+Albany
+Beaverton
+Bend
+Corvallis
+Eugene
+Grants Pass
+Gresham
+Hillsboro
+Keizer
+Lake Oswego
+McMinnville
+Medford
+Oregon
+Portland
+Salem
+Springfield
+Tigard
+Allentown
+Altoona
+Bethel Park
+Bethlehem
+Chester
+Easton
+Erie
+Harrisburg
+Lancaster
+Municipality of Monroeville
+New Castle
+Norristown
+Philadelphia
+Pittsburgh
+Plum
+Reading
+Scranton
+State College
+Wilkes-Barre
+Williamsport
+York
+Cranston
+East Providence
+Newport
+Pawtucket
+Providence
+Warwick
+Woonsocket
+Aiken
+Anderson
+Charleston
+Columbia
+Florence
+Goose Creek
+Greenville
+Hilton Head Island
+Mount Pleasant
+North Charleston
+Rock Hill
+Spartanburg
+Summerville
+Sumter
+Rapid
+Sioux Falls
+Bartlett
+Brentwood
+Bristol
+Chattanooga
+Clarksville
+Cleveland
+Collierville
+Columbia
+Cookeville
+Franklin
+Germantown
+Hendersonville
+Jackson
+Johnson
+Kingsport
+Knoxville
+Memphis
+Morristown
+Murfreesboro
+Nashville-Davidson
+Oak Ridge
+Smyrna
+Abilene
+Allen
+Amarillo
+Arlington
+Austin
+Baytown
+Beaumont
+Bedford
+Big Spring
+Brownsville
+Bryan
+Carrollton
+Cedar Hill
+Cedar Park
+Cleburne
+College Station
+Conroe
+Coppell
+Copperas Cove
+Corpus Christi
+Dallas
+Deer Park
+Del Rio
+Denton
+DeSoto
+Duncanville
+Edinburg
+El Paso
+Euless
+Farmers Branch
+Flower Mound
+Fort Worth
+Friendswood
+Frisco
+Galveston
+Garland
+Georgetown
+Grand Prairie
+Grapevine
+Haltom
+Harlingen
+Houston
+Huntsville
+Hurst
+Irving
+Keller
+Killeen
+Kingsville
+Lake Jackson
+Lancaster
+La Porte
+Laredo
+League
+Lewisville
+Longview
+Lubbock
+Lufkin
+McAllen
+McKinney
+Mansfield
+Mesquite
+Midland
+Mission
+Missouri
+Nacogdoches
+New Braunfels
+North Richland Hills
+Odessa
+Paris
+Pasadena
+Pearland
+Pharr
+Plano
+Port Arthur
+Richardson
+Round Rock
+Rowlett
+San Angelo
+San Antonio
+San Juan
+San Marcos
+Sherman
+Socorro
+Sugar Land
+Temple
+Texarkana
+Texas
+The Colony
+Tyler
+Victoria
+Waco
+Weslaco
+Wichita Falls
+Bountiful
+Clearfield
+Draper
+Layton
+Logan
+Midvale
+Murray
+Ogden
+Orem
+Provo
+Riverton
+Roy
+St. George
+Salt Lake
+Sandy
+South Jordan
+Taylorsville
+West Jordan
+West Valley
+Burlington
+Alexandria
+Arlington CDP
+Blacksburg
+Charlottesville
+Chesapeake
+Danville
+Hampton
+Harrisonburg
+Leesburg
+Lynchburg
+Manassas
+Newport News
+Norfolk
+Petersburg
+Portsmouth
+Richmond
+Roanoke
+Suffolk
+Virginia Beach
+Auburn
+Bellevue
+Bellingham
+Bothell
+Bremerton
+Burien
+Des Moines
+Edmonds
+Everett
+Federal Way
+Kennewick
+Kent
+Kirkland
+Lacey
+Lakewood
+Longview
+Lynnwood
+Marysville
+Mount Vernon
+Olympia
+Pasco
+Puyallup
+Redmond
+Renton
+Richland
+Sammamish
+SeaTac
+Seattle
+Shoreline
+Spokane
+Spokane Valley
+Tacoma
+University Place
+Vancouver
+Walla Walla
+Wenatchee
+Yakima
+Charleston
+Huntington
+Morgantown
+Parkersburg
+Wheeling
+Appleton
+Beloit
+Brookfield
+Eau Claire
+Fond du Lac
+Franklin
+Green Bay
+Greenfield
+Janesville
+Kenosha
+La Crosse
+Madison
+Manitowoc
+Menomonee Falls
+Milwaukee
+New Berlin
+Oak Creek
+Oshkosh
+Racine
+Sheboygan
+Superior
+Waukesha
+Wausau
+Wauwatosa
+West Allis
+West Bend
+Casper
+Cheyenne
+Laramie
